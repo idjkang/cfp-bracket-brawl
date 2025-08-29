@@ -52,6 +52,17 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				cfp: {
+					gold: 'hsl(var(--cfp-gold))',
+					navy: 'hsl(var(--cfp-navy))',
+					blue: 'hsl(var(--cfp-blue))'
+				},
+				playoff: {
+					green: 'hsl(var(--playoff-green))'
+				},
+				champion: {
+					purple: 'hsl(var(--champion-purple))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
